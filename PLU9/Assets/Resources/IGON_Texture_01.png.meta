@@ -1,0 +1,1280 @@
+fileFormatVersion: 2
+guid: 7f44141b5bd024c479451fd8c9d0d789
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8528774358414816311
+    second: IGON_Texture_01_0
+  - first:
+      213: -3309535990261002696
+    second: IGON_Texture_01_1
+  - first:
+      213: -8800985320217661652
+    second: IGON_Texture_01_2
+  - first:
+      213: 6105774515233980042
+    second: IGON_Texture_01_3
+  - first:
+      213: 3274012823683923452
+    second: IGON_Texture_01_4
+  - first:
+      213: -9021350298363529670
+    second: IGON_Texture_01_5
+  - first:
+      213: 5246065575719027890
+    second: IGON_Texture_01_6
+  - first:
+      213: -2536544212155623932
+    second: IGON_Texture_01_7
+  - first:
+      213: -7809994052216965706
+    second: IGON_Texture_01_8
+  - first:
+      213: 6878625462015346123
+    second: IGON_Texture_01_9
+  - first:
+      213: -1939454832987156364
+    second: IGON_Texture_01_10
+  - first:
+      213: -3196744384910748447
+    second: IGON_Texture_01_11
+  - first:
+      213: 7995427771550185873
+    second: IGON_Texture_01_12
+  - first:
+      213: 392035861238189015
+    second: IGON_Texture_01_13
+  - first:
+      213: 5823803919406372249
+    second: IGON_Texture_01_14
+  - first:
+      213: 1074885907231469198
+    second: IGON_Texture_01_15
+  - first:
+      213: 4528549575258421544
+    second: IGON_Texture_01_16
+  - first:
+      213: -6557430167659539947
+    second: IGON_Texture_01_17
+  - first:
+      213: 1769189448012146688
+    second: IGON_Texture_01_18
+  - first:
+      213: -6635046932361031196
+    second: IGON_Texture_01_19
+  - first:
+      213: -7696244153112482956
+    second: IGON_Texture_01_20
+  - first:
+      213: 3310860670635085488
+    second: IGON_Texture_01_21
+  - first:
+      213: 5715334833738732446
+    second: IGON_Texture_01_22
+  - first:
+      213: 7180081384743956764
+    second: IGON_Texture_01_23
+  - first:
+      213: -836597125413309727
+    second: IGON_Texture_01_24
+  - first:
+      213: -4381407407683662432
+    second: IGON_Texture_01_25
+  - first:
+      213: -4909476863787498171
+    second: IGON_Texture_01_26
+  - first:
+      213: 1857432480365246891
+    second: IGON_Texture_01_27
+  - first:
+      213: -493798264590622028
+    second: IGON_Texture_01_28
+  - first:
+      213: 5854718526892404186
+    second: IGON_Texture_01_29
+  - first:
+      213: -5900724348565596003
+    second: IGON_Texture_01_30
+  - first:
+      213: 1812568954740902771
+    second: IGON_Texture_01_31
+  - first:
+      213: 3127557115193989949
+    second: IGON_Texture_01_32
+  - first:
+      213: -7660756354701834551
+    second: IGON_Texture_01_33
+  - first:
+      213: 3214574326269108646
+    second: IGON_Texture_01_34
+  - first:
+      213: 2555888582504985132
+    second: IGON_Texture_01_35
+  - first:
+      213: -1878240393028652907
+    second: IGON_Texture_01_36
+  - first:
+      213: -3812050405228698784
+    second: IGON_Texture_01_37
+  - first:
+      213: 3623377687435000189
+    second: IGON_Texture_01_38
+  - first:
+      213: -4901790490867791828
+    second: IGON_Texture_01_39
+  - first:
+      213: -212417004659785194
+    second: IGON_Texture_01_40
+  - first:
+      213: 5511662931722345205
+    second: IGON_Texture_01_41
+  - first:
+      213: 650334878992991249
+    second: IGON_Texture_01_42
+  - first:
+      213: 1964819926086026688
+    second: IGON_Texture_01_43
+  - first:
+      213: 7922474011032959026
+    second: IGON_Texture_01_44
+  - first:
+      213: -3982957615224520501
+    second: IGON_Texture_01_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IGON_Texture_01_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 941
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb893d88e4b3a980800000000000000
+      internalID: -8528774358414816311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 963
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e4f113d8a2212d0800000000000000
+      internalID: -3309535990261002696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 962
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2faffa1b7e9cd580800000000000000
+      internalID: -8800985320217661652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_3
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 849
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e772362911cb450800000000000000
+      internalID: 6105774515233980042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_4
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 901
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdf0c11151af6d20800000000000000
+      internalID: 3274012823683923452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 900
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a367da763b9bdc280800000000000000
+      internalID: -9021350298363529670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 839
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b44325a8d4cdc840800000000000000
+      internalID: 5246065575719027890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_7
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 838
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406146d6a726cccd0800000000000000
+      internalID: -2536544212155623932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 757
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5b1b3e9c35d9390800000000000000
+      internalID: -7809994052216965706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_9
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 777
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5c166c969c57f50800000000000000
+      internalID: 6878625462015346123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_10
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 776
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470d2e5ea1ca515e0800000000000000
+      internalID: -1939454832987156364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 665
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e49ba34be1e2a3d0800000000000000
+      internalID: -3196744384910748447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_12
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 714
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199ba86523775fe60800000000000000
+      internalID: 7995427771550185873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_13
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 652
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db0158e98ac07500800000000000000
+      internalID: 392035861238189015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_14
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 714
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9959eb11fce42d050800000000000000
+      internalID: 5823803919406372249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 594
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8eea92a903caee00800000000000000
+      internalID: 1074885907231469198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_16
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 595
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829360d68d3a8de30800000000000000
+      internalID: 4528549575258421544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_17
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 590
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512193951045ff4a0800000000000000
+      internalID: -6557430167659539947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 532
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008222ded6c6d8810800000000000000
+      internalID: 1769189448012146688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_19
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 532
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1539018f39be3a0800000000000000
+      internalID: -6635046932361031196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_20
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 470
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47bad0d18b2713590800000000000000
+      internalID: -7696244153112482956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_21
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 528
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be040efc3a82fd20800000000000000
+      internalID: 3310860670635085488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 470
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93d96900c2f05f40800000000000000
+      internalID: 5715334833738732446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_23
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 408
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11fe0c4af5c4a360800000000000000
+      internalID: 7180081384743956764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_24
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 466
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e270afc85fc364f0800000000000000
+      internalID: -836597125413309727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_25
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 408
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad00c82d2d1233c0800000000000000
+      internalID: -4381407407683662432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_26
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 346
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54582fccdc80edbb0800000000000000
+      internalID: -4909476863787498171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_27
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 404
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba97172fffce6c910800000000000000
+      internalID: 1857432480365246891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 346
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b22f58381da529f0800000000000000
+      internalID: -493798264590622028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_29
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 342
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adde1570b73204150800000000000000
+      internalID: 5854718526892404186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 288
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98df36e77a6c1ea0800000000000000
+      internalID: -5900724348565596003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_31
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 287
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b8b366cd9872910800000000000000
+      internalID: 1812568954740902771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_32
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 280
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b12e130a0576b20800000000000000
+      internalID: 3127557115193989949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_33
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 226
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c64e2f0fa68fa590800000000000000
+      internalID: -7660756354701834551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_34
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 225
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a16c5571567c9c20800000000000000
+      internalID: 3214574326269108646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_35
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 218
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22bfa5cf17587320800000000000000
+      internalID: 2555888582504985132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 164
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590bcba50562fe5e0800000000000000
+      internalID: -1878240393028652907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_37
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 163
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063a5728a50e81bc0800000000000000
+      internalID: -3812050405228698784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_38
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 156
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79b3aa2fc2d84230800000000000000
+      internalID: 3623377687435000189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_39
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 102
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c280074f48759fbb0800000000000000
+      internalID: -4901790490867791828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_40
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 101
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61240051cd75d0df0800000000000000
+      internalID: -212417004659785194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_41
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 94
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa9ffefb3c5d7c40800000000000000
+      internalID: 5511662931722345205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_42
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 40
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1148c677024760900800000000000000
+      internalID: 650334878992991249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_43
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 39
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c587fd0051744b10800000000000000
+      internalID: 1964819926086026688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_44
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 32
+        width: 17
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23832e1532842fd60800000000000000
+      internalID: 7922474011032959026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGON_Texture_01_45
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 32
+        width: 17
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc00b1dc621b9b8c0800000000000000
+      internalID: -3982957615224520501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

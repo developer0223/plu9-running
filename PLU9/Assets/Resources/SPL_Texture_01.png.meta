@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: bfd7777d7a0d98441a59e3237cfc4325
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -390815063633131199
+    second: SPL_Texture_01_0
+  - first:
+      213: -7186927624480700295
+    second: SPL_Texture_01_1
+  - first:
+      213: -7894073388089446020
+    second: SPL_Texture_01_2
+  - first:
+      213: -5419548813004375306
+    second: SPL_Texture_01_3
+  - first:
+      213: 4831398783034002863
+    second: SPL_Texture_01_4
+  - first:
+      213: -2713961641757371124
+    second: SPL_Texture_01_5
+  - first:
+      213: 115697018202783995
+    second: SPL_Texture_01_6
+  - first:
+      213: -7619010573624242590
+    second: SPL_Texture_01_7
+  - first:
+      213: 5993716670818987932
+    second: SPL_Texture_01_8
+  - first:
+      213: -4132700882590948727
+    second: SPL_Texture_01_9
+  - first:
+      213: 2697432281232079169
+    second: SPL_Texture_01_10
+  - first:
+      213: 748610456571446319
+    second: SPL_Texture_01_11
+  - first:
+      213: -2847038539205549065
+    second: SPL_Texture_01_12
+  - first:
+      213: 2815267947161225957
+    second: SPL_Texture_01_13
+  - first:
+      213: 2902024465380352016
+    second: SPL_Texture_01_14
+  - first:
+      213: -9144416357918115695
+    second: SPL_Texture_01_15
+  - first:
+      213: 5027062746728485568
+    second: SPL_Texture_01_16
+  - first:
+      213: -2936829477068061388
+    second: SPL_Texture_01_17
+  - first:
+      213: -5816654568234875283
+    second: SPL_Texture_01_18
+  - first:
+      213: 1653154718775423474
+    second: SPL_Texture_01_19
+  - first:
+      213: -621145141855195589
+    second: SPL_Texture_01_20
+  - first:
+      213: 9156364981732819617
+    second: SPL_Texture_01_21
+  - first:
+      213: -2929100449361578541
+    second: SPL_Texture_01_22
+  - first:
+      213: 2260922765748698389
+    second: SPL_Texture_01_23
+  - first:
+      213: 6215790455630723521
+    second: SPL_Texture_01_24
+  - first:
+      213: 1472124410372733851
+    second: SPL_Texture_01_25
+  - first:
+      213: 5759152807763762702
+    second: SPL_Texture_01_26
+  - first:
+      213: 5361032828891543164
+    second: SPL_Texture_01_27
+  - first:
+      213: 3463612920377730840
+    second: SPL_Texture_01_28
+  - first:
+      213: -1394315780135917827
+    second: SPL_Texture_01_29
+  - first:
+      213: 2312454504824348776
+    second: SPL_Texture_01_30
+  - first:
+      213: -8364825038453887756
+    second: SPL_Texture_01_31
+  - first:
+      213: 7597018604748721425
+    second: SPL_Texture_01_32
+  - first:
+      213: 3713098281054174758
+    second: SPL_Texture_01_33
+  - first:
+      213: 3536255497465233453
+    second: SPL_Texture_01_34
+  - first:
+      213: -1638868922550415957
+    second: SPL_Texture_01_35
+  - first:
+      213: -924617995745044169
+    second: SPL_Texture_01_36
+  - first:
+      213: 1297152522705030667
+    second: SPL_Texture_01_37
+  - first:
+      213: -3556092189642438072
+    second: SPL_Texture_01_38
+  - first:
+      213: 2363450712467533093
+    second: SPL_Texture_01_39
+  - first:
+      213: -4794623786192029890
+    second: SPL_Texture_01_40
+  - first:
+      213: -7401635985826724786
+    second: SPL_Texture_01_41
+  - first:
+      213: 1652094607465837706
+    second: SPL_Texture_01_42
+  - first:
+      213: 7539639996535255949
+    second: SPL_Texture_01_43
+  - first:
+      213: -8898922097379783847
+    second: SPL_Texture_01_44
+  - first:
+      213: -8429037613046843383
+    second: SPL_Texture_01_45
+  - first:
+      213: 6414972485828109550
+    second: SPL_Texture_01_46
+  - first:
+      213: 4688776359813521865
+    second: SPL_Texture_01_47
+  - first:
+      213: 655872571432338394
+    second: SPL_Texture_01_48
+  - first:
+      213: 8830813571493829860
+    second: SPL_Texture_01_49
+  - first:
+      213: 4467107865469911069
+    second: SPL_Texture_01_50
+  - first:
+      213: -6326251482062839182
+    second: SPL_Texture_01_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SPL_Texture_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1875
+        width: 599
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149864f25cb839af0800000000000000
+      internalID: -390815063633131199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_1
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1856
+        width: 220
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978c26c4767e24c90800000000000000
+      internalID: -7186927624480700295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_2
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1900
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c717010041e927290800000000000000
+      internalID: -7894073388089446020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_3
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1752
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fafbfd8115e9c4b0800000000000000
+      internalID: -5419548813004375306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1738
+        width: 244
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad0ff668939c0340800000000000000
+      internalID: 4831398783034002863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_5
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1738
+        width: 244
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0514091442165ad0800000000000000
+      internalID: -2713961641757371124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_6
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1828
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf08c8733d90b9100800000000000000
+      internalID: 115697018202783995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_7
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1832
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e8e232046d34690800000000000000
+      internalID: -7619010573624242590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1708
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fa0885e85fd2350800000000000000
+      internalID: 5993716670818987932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1590
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982293a7172b5a6c0800000000000000
+      internalID: -4132700882590948727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1590
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14972804e543f6520800000000000000
+      internalID: 2697432281232079169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1590
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2485137e39936a00800000000000000
+      internalID: 748610456571446319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_12
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1560
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f36ec868894d78d0800000000000000
+      internalID: -2847038539205549065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_13
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1456
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea86123847d11720800000000000000
+      internalID: 2815267947161225957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_14
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1604
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0102d7c20ef064820800000000000000
+      internalID: 2902024465380352016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1442
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198f40c85c1881180800000000000000
+      internalID: -9144416357918115695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1294
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2d9520fe6b3c540800000000000000
+      internalID: 5027062746728485568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1442
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435467d86294e37d0800000000000000
+      internalID: -2936829477068061388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_18
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1294
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d660537fc77174fa0800000000000000
+      internalID: -5816654568234875283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_19
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1442
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1be5b357f21f610800000000000000
+      internalID: 1653154718775423474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_20
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1294
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ee2c1d8cf3167f0800000000000000
+      internalID: -621145141855195589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_21
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1412
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2c20a3071f11f70800000000000000
+      internalID: 9156364981732819617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_22
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1308
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5bd5c09aeb957d0800000000000000
+      internalID: -2929100449361578541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1146
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d7b0dc649606f10800000000000000
+      internalID: 2260922765748698389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_24
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1146
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9f12a9c7ce24650800000000000000
+      internalID: 6215790455630723521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_25
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1146
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bb2710a590e6410800000000000000
+      internalID: 1472124410372733851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_26
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1264
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ed3f127fe9cef40800000000000000
+      internalID: 5759152807763762702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_27
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1116
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76b94334f6366a40800000000000000
+      internalID: 5361032828891543164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_28
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1160
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817619e9999311030800000000000000
+      internalID: 3463612920377730840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 998
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6e6447f2566ace0800000000000000
+      internalID: -1394315780135917827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_30
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 998
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860ae47ce1d771020800000000000000
+      internalID: 2312454504824348776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_31
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 998
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fca9ae32fb2aeb80800000000000000
+      internalID: -8364825038453887756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_32
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 968
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11dc4189b280e6960800000000000000
+      internalID: 7597018604748721425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_33
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1012
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ef85ab633978330800000000000000
+      internalID: 3713098281054174758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_34
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 864
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20007993ad431130800000000000000
+      internalID: 3536255497465233453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 850
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad84f5e5619149e0800000000000000
+      internalID: -1638868922550415957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 702
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739deaae4d81b23f0800000000000000
+      internalID: -924617995745044169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_37
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 850
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ec557c859600210800000000000000
+      internalID: 1297152522705030667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_38
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 702
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a42d79ef836aec0800000000000000
+      internalID: -3556092189642438072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_39
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 850
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d65c0a6e9acc020800000000000000
+      internalID: 2363450712467533093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_40
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 702
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37b268c113167db0800000000000000
+      internalID: -4794623786192029890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_41
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 820
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44cc04594b184990800000000000000
+      internalID: -7401635985826724786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_42
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 716
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84f655da4b6de610800000000000000
+      internalID: 1652094607465837706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 554
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83bfcf41ae22a860800000000000000
+      internalID: 7539639996535255949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_44
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 554
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bcdcd308da08480800000000000000
+      internalID: -8898922097379783847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_45
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 554
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908bfeb23fa060b80800000000000000
+      internalID: -8429037613046843383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_46
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 672
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee460b5ec7f860950800000000000000
+      internalID: 6414972485828109550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_47
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 524
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c12fedc141e11140800000000000000
+      internalID: 4688776359813521865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_48
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 568
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad38526f0a02a1900800000000000000
+      internalID: 655872571432338394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 485
+        width: 302
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec9696d72a5d8a70800000000000000
+      internalID: 8830813571493829860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 453
+        width: 443
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1000b69fea5efd30800000000000000
+      internalID: 4467107865469911069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPL_Texture_01_51
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 420
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2722bd38bc3a438a0800000000000000
+      internalID: -6326251482062839182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
