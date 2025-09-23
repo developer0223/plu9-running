@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      com_facebook_list_section_header_background.9_0: 7355915221061526060
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

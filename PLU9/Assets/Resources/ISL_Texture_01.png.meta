@@ -672,7 +672,29 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ISL_Texture_01_0: 5523716503202372612
+      ISL_Texture_01_1: 1089985992715865414
+      ISL_Texture_01_10: -1189064130673127752
+      ISL_Texture_01_11: 4922438405713716802
+      ISL_Texture_01_12: -4226149386189377100
+      ISL_Texture_01_13: 9068583494013627302
+      ISL_Texture_01_14: -5926952211032372160
+      ISL_Texture_01_15: -2363499240655357202
+      ISL_Texture_01_16: 5169164068866094007
+      ISL_Texture_01_17: 1504752217885218770
+      ISL_Texture_01_18: -3993847101673039158
+      ISL_Texture_01_19: -2942792919897594141
+      ISL_Texture_01_2: -8250530635924275913
+      ISL_Texture_01_20: -5846844167442991432
+      ISL_Texture_01_21: 1678393159679329985
+      ISL_Texture_01_3: -6859363556462273415
+      ISL_Texture_01_4: -3162608690321267423
+      ISL_Texture_01_5: -129083603271830527
+      ISL_Texture_01_6: 4665143801022989310
+      ISL_Texture_01_7: -2279402179507034326
+      ISL_Texture_01_8: -7647808945795183301
+      ISL_Texture_01_9: 7693492768052968944
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

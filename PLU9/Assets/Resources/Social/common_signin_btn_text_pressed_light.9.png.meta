@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      common_signin_btn_text_pressed_light.9_0: 8749241229166364551
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

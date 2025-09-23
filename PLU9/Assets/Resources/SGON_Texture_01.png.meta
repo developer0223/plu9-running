@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SGON_Texture_01_0: -4234213860762000979
+      SGON_Texture_01_1: 4438925339545978825
+      SGON_Texture_01_2: 1010533373470280224
+      SGON_Texture_01_3: -6755676047023345813
+      SGON_Texture_01_4: 5211944035857880902
+      SGON_Texture_01_5: 1678994081259775912
+      SGON_Texture_01_6: 3834962224393477145
+      SGON_Texture_01_7: -8278073225346315283
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

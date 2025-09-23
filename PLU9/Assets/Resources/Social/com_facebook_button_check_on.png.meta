@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      com_facebook_button_check_on_0: 7989007185499155255
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

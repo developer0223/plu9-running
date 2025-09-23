@@ -1,25 +1,25 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: D:/UnityProject/plu9-running/PLU9/Packages/manifest.json
+    m_FilePath: D:/GitClone/plu9-running/PLU9/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638941512366549366
-    m_Hash: 1971008818
+      ticks: 638941941247821167
+    m_Hash: 3431020436
   m_LockFileStatus:
-    m_FilePath: D:/UnityProject/plu9-running/PLU9/Packages/packages-lock.json
+    m_FilePath: D:/GitClone/plu9-running/PLU9/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638941512366584551
-    m_Hash: 994492723
+      ticks: 638941941247827461
+    m_Hash: 2426244319
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: D:/UnityProject/plu9-running/PLU9/Packages
+m_ProjectPath: D:/GitClone/plu9-running/PLU9/Packages
 m_EditorVersion: 6000.0.40f1 (157d81624ddf)
 m_ResolvedPackages:
 - packageId: com.unity.collab-proxy@2.9.3
@@ -27,7 +27,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.9.3
   source: 1
-  resolvedPath: D:\UnityProject\plu9-running\PLU9\Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad
+  resolvedPath: D:\GitClone\plu9-running\PLU9\Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Unity Version Control
@@ -198,7 +198,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.1
   source: 2
-  resolvedPath: D:\UnityProject\plu9-running\PLU9\Library\PackageCache\com.unity.feature.2d@dd1ea8910f12
+  resolvedPath: D:\GitClone\plu9-running\PLU9\Library\PackageCache\com.unity.feature.2d@dd1ea8910f12
   assetPath: Packages/com.unity.feature.2d
   name: com.unity.feature.2d
   displayName: 2D
@@ -243,24 +243,24 @@ m_ResolvedPackages:
     version: 10.1.4
   - name: com.unity.2d.common
     version: 9.0.7
-  - name: com.unity.burst
-    version: 1.8.19
-  - name: com.unity.mathematics
-    version: 1.3.2
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
   - name: com.unity.2d.sprite
     version: 1.0.0
-  - name: com.unity.modules.animation
-    version: 1.0.0
+  - name: com.unity.mathematics
+    version: 1.3.2
   - name: com.unity.modules.uielements
     version: 1.0.0
   - name: com.unity.modules.ui
     version: 1.0.0
   - name: com.unity.modules.imgui
     version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
   - name: com.unity.modules.hierarchycore
     version: 1.0.0
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  - name: com.unity.burst
+    version: 1.8.19
   - name: com.unity.collections
     version: 2.5.1
   - name: com.unity.test-framework
@@ -332,7 +332,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.31
   source: 1
-  resolvedPath: D:\UnityProject\plu9-running\PLU9\Library\PackageCache\com.unity.ide.rider@7921be93db40
+  resolvedPath: D:\GitClone\plu9-running\PLU9\Library\PackageCache\com.unity.ide.rider@7921be93db40
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -460,7 +460,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.22
   source: 1
-  resolvedPath: D:\UnityProject\plu9-running\PLU9\Library\PackageCache\com.unity.ide.visualstudio@8140e851d83e
+  resolvedPath: D:\GitClone\plu9-running\PLU9\Library\PackageCache\com.unity.ide.visualstudio@8140e851d83e
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -568,7 +568,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.13.0
   source: 1
-  resolvedPath: D:\UnityProject\plu9-running\PLU9\Library\PackageCache\com.unity.inputsystem@ea5ab5b33a26
+  resolvedPath: D:\GitClone\plu9-running\PLU9\Library\PackageCache\com.unity.inputsystem@ea5ab5b33a26
   assetPath: Packages/com.unity.inputsystem
   name: com.unity.inputsystem
   displayName: Input System
@@ -729,7 +729,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\UnityProject\plu9-running\PLU9\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
+  resolvedPath: D:\GitClone\plu9-running\PLU9\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
   assetPath: Packages/com.unity.multiplayer.center
   name: com.unity.multiplayer.center
   displayName: Multiplayer Center
@@ -819,7 +819,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 17.0.4
   source: 2
-  resolvedPath: D:\UnityProject\plu9-running\PLU9\Library\PackageCache\com.unity.render-pipelines.universal@bd2aa618476e
+  resolvedPath: D:\GitClone\plu9-running\PLU9\Library\PackageCache\com.unity.render-pipelines.universal@bd2aa618476e
   assetPath: Packages/com.unity.render-pipelines.universal
   name: com.unity.render-pipelines.universal
   displayName: Universal RP
@@ -981,7 +981,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.4.6
   source: 1
-  resolvedPath: D:\UnityProject\plu9-running\PLU9\Library\PackageCache\com.unity.test-framework@5ac417e07314
+  resolvedPath: D:\GitClone\plu9-running\PLU9\Library\PackageCache\com.unity.test-framework@5ac417e07314
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -1133,7 +1133,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.8.7
   source: 1
-  resolvedPath: D:\UnityProject\plu9-running\PLU9\Library\PackageCache\com.unity.timeline@c58b4ee65782
+  resolvedPath: D:\GitClone\plu9-running\PLU9\Library\PackageCache\com.unity.timeline@c58b4ee65782
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -1321,7 +1321,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.10
   source: 1
-  resolvedPath: D:\UnityProject\plu9-running\PLU9\Library\PackageCache\com.unity.toolchain.win-x86_64-linux-x86_64@426618737602
+  resolvedPath: D:\GitClone\plu9-running\PLU9\Library\PackageCache\com.unity.toolchain.win-x86_64-linux-x86_64@426618737602
   assetPath: Packages/com.unity.toolchain.win-x86_64-linux-x86_64
   name: com.unity.toolchain.win-x86_64-linux-x86_64
   displayName: Toolchain Win Linux x64
@@ -1426,7 +1426,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.0
   source: 2
-  resolvedPath: D:\UnityProject\plu9-running\PLU9\Library\PackageCache\com.unity.ugui@03407c6d8751
+  resolvedPath: D:\GitClone\plu9-running\PLU9\Library\PackageCache\com.unity.ugui@03407c6d8751
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -1521,7 +1521,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.9.5
   source: 1
-  resolvedPath: D:\UnityProject\plu9-running\PLU9\Library\PackageCache\com.unity.visualscripting@1b53f46e931b
+  resolvedPath: D:\GitClone\plu9-running\PLU9\Library\PackageCache\com.unity.visualscripting@1b53f46e931b
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -4065,7 +4065,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.10
   source: 1
-  resolvedPath: D:\UnityProject\plu9-running\PLU9\Library\PackageCache\com.unity.sysroot@7bbbb9339c14
+  resolvedPath: D:\GitClone\plu9-running\PLU9\Library\PackageCache\com.unity.sysroot@7bbbb9339c14
   assetPath: Packages/com.unity.sysroot
   name: com.unity.sysroot
   displayName: Sysroot Base
@@ -4155,7 +4155,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.9
   source: 1
-  resolvedPath: D:\UnityProject\plu9-running\PLU9\Library\PackageCache\com.unity.sysroot.linux-x86_64@1998d1c7730e
+  resolvedPath: D:\GitClone\plu9-running\PLU9\Library\PackageCache\com.unity.sysroot.linux-x86_64@1998d1c7730e
   assetPath: Packages/com.unity.sysroot.linux-x86_64
   name: com.unity.sysroot.linux-x86_64
   displayName: Sysroot Linux x64
@@ -4246,7 +4246,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.5
   source: 1
-  resolvedPath: D:\UnityProject\plu9-running\PLU9\Library\PackageCache\com.unity.ext.nunit@60ef35ffd3cd
+  resolvedPath: D:\GitClone\plu9-running\PLU9\Library\PackageCache\com.unity.ext.nunit@60ef35ffd3cd
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -4325,7 +4325,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.0.4
   source: 2
-  resolvedPath: D:\UnityProject\plu9-running\PLU9\Library\PackageCache\com.unity.render-pipelines.core@481f548ebf36
+  resolvedPath: D:\GitClone\plu9-running\PLU9\Library\PackageCache\com.unity.render-pipelines.core@481f548ebf36
   assetPath: Packages/com.unity.render-pipelines.core
   name: com.unity.render-pipelines.core
   displayName: Core RP Library
@@ -4539,7 +4539,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.0.4
   source: 2
-  resolvedPath: D:\UnityProject\plu9-running\PLU9\Library\PackageCache\com.unity.shadergraph@425e21ee5890
+  resolvedPath: D:\GitClone\plu9-running\PLU9\Library\PackageCache\com.unity.shadergraph@425e21ee5890
   assetPath: Packages/com.unity.shadergraph
   name: com.unity.shadergraph
   displayName: Shader Graph
@@ -4742,7 +4742,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.0.3
   source: 2
-  resolvedPath: D:\UnityProject\plu9-running\PLU9\Library\PackageCache\com.unity.render-pipelines.universal-config@fa63c96d3e1a
+  resolvedPath: D:\GitClone\plu9-running\PLU9\Library\PackageCache\com.unity.render-pipelines.universal-config@fa63c96d3e1a
   assetPath: Packages/com.unity.render-pipelines.universal-config
   name: com.unity.render-pipelines.universal-config
   displayName: Universal RP Config
@@ -4840,7 +4840,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 10.1.4
   source: 1
-  resolvedPath: D:\UnityProject\plu9-running\PLU9\Library\PackageCache\com.unity.2d.animation@494a3b4e73a9
+  resolvedPath: D:\GitClone\plu9-running\PLU9\Library\PackageCache\com.unity.2d.animation@494a3b4e73a9
   assetPath: Packages/com.unity.2d.animation
   name: com.unity.2d.animation
   displayName: 2D Animation
@@ -5015,24 +5015,24 @@ m_ResolvedPackages:
   resolvedDependencies:
   - name: com.unity.2d.common
     version: 9.0.7
-  - name: com.unity.burst
-    version: 1.8.19
-  - name: com.unity.mathematics
-    version: 1.3.2
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
   - name: com.unity.2d.sprite
     version: 1.0.0
-  - name: com.unity.modules.animation
-    version: 1.0.0
+  - name: com.unity.mathematics
+    version: 1.3.2
   - name: com.unity.modules.uielements
     version: 1.0.0
   - name: com.unity.modules.ui
     version: 1.0.0
   - name: com.unity.modules.imgui
     version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
   - name: com.unity.modules.hierarchycore
     version: 1.0.0
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  - name: com.unity.burst
+    version: 1.8.19
   - name: com.unity.collections
     version: 2.5.1
   - name: com.unity.test-framework
@@ -5056,7 +5056,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-    licensingModel: 1
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 638654459075740000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.animation@10.1/manual/index.html
@@ -5102,7 +5102,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 5.0.3
   source: 1
-  resolvedPath: D:\UnityProject\plu9-running\PLU9\Library\PackageCache\com.unity.2d.pixel-perfect@e3ae982b672d
+  resolvedPath: D:\GitClone\plu9-running\PLU9\Library\PackageCache\com.unity.2d.pixel-perfect@e3ae982b672d
   assetPath: Packages/com.unity.2d.pixel-perfect
   name: com.unity.2d.pixel-perfect
   displayName: 2D Pixel Perfect
@@ -5167,7 +5167,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-    licensingModel: 1
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 638023910590000000
   documentationUrl: 
@@ -5201,7 +5201,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 9.0.3
   source: 1
-  resolvedPath: D:\UnityProject\plu9-running\PLU9\Library\PackageCache\com.unity.2d.psdimporter@676bae148e11
+  resolvedPath: D:\GitClone\plu9-running\PLU9\Library\PackageCache\com.unity.2d.psdimporter@676bae148e11
   assetPath: Packages/com.unity.2d.psdimporter
   name: com.unity.2d.psdimporter
   displayName: 2D PSD Importer
@@ -5210,7 +5210,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 2D
-  type: assets
+  type: 
   description: A ScriptedImporter for importing Adobe Photoshop PSB (Photoshop Big)
     file format. The ScriptedImporter is currently targeted for users who wants to
     create multi Sprite character animation using Unity 2D Animation Package.
@@ -5319,24 +5319,24 @@ m_ResolvedPackages:
   resolvedDependencies:
   - name: com.unity.2d.common
     version: 9.0.7
-  - name: com.unity.burst
-    version: 1.8.19
-  - name: com.unity.mathematics
-    version: 1.3.2
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
   - name: com.unity.2d.sprite
     version: 1.0.0
-  - name: com.unity.modules.animation
-    version: 1.0.0
+  - name: com.unity.mathematics
+    version: 1.3.2
   - name: com.unity.modules.uielements
     version: 1.0.0
   - name: com.unity.modules.ui
     version: 1.0.0
   - name: com.unity.modules.imgui
     version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
   - name: com.unity.modules.hierarchycore
     version: 1.0.0
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  - name: com.unity.burst
+    version: 1.8.19
   keywords:
   - 2d
   - psdimporter
@@ -5351,7 +5351,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-    licensingModel: 1
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 638489453630000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.psdimporter@9.0/manual/index.html
@@ -5387,7 +5387,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: D:\UnityProject\plu9-running\PLU9\Library\PackageCache\com.unity.2d.sprite@072d7bd355e5
+  resolvedPath: D:\GitClone\plu9-running\PLU9\Library\PackageCache\com.unity.2d.sprite@072d7bd355e5
   assetPath: Packages/com.unity.2d.sprite
   name: com.unity.2d.sprite
   displayName: 2D Sprite
@@ -5457,7 +5457,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 10.0.7
   source: 1
-  resolvedPath: D:\UnityProject\plu9-running\PLU9\Library\PackageCache\com.unity.2d.spriteshape@9e35352ae135
+  resolvedPath: D:\GitClone\plu9-running\PLU9\Library\PackageCache\com.unity.2d.spriteshape@9e35352ae135
   assetPath: Packages/com.unity.2d.spriteshape
   name: com.unity.2d.spriteshape
   displayName: 2D SpriteShape
@@ -5577,24 +5577,18 @@ m_ResolvedPackages:
     recommended: 10.0.7
     deprecated: []
   dependencies:
-  - name: com.unity.2d.common
-    version: 9.0.7
   - name: com.unity.mathematics
     version: 1.1.0
+  - name: com.unity.2d.common
+    version: 9.0.7
   - name: com.unity.modules.physics2d
     version: 1.0.0
   resolvedDependencies:
-  - name: com.unity.2d.common
-    version: 9.0.7
-  - name: com.unity.burst
-    version: 1.8.19
   - name: com.unity.mathematics
     version: 1.3.2
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
+  - name: com.unity.2d.common
+    version: 9.0.7
   - name: com.unity.2d.sprite
-    version: 1.0.0
-  - name: com.unity.modules.animation
     version: 1.0.0
   - name: com.unity.modules.uielements
     version: 1.0.0
@@ -5602,8 +5596,14 @@ m_ResolvedPackages:
     version: 1.0.0
   - name: com.unity.modules.imgui
     version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
   - name: com.unity.modules.hierarchycore
     version: 1.0.0
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  - name: com.unity.burst
+    version: 1.8.19
   - name: com.unity.modules.physics2d
     version: 1.0.0
   keywords:
@@ -5623,7 +5623,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-    licensingModel: 1
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 638654459104040000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.spriteshape@10.0/manual/index.html
@@ -5658,7 +5658,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: D:\UnityProject\plu9-running\PLU9\Library\PackageCache\com.unity.2d.tilemap@91afae292a4e
+  resolvedPath: D:\GitClone\plu9-running\PLU9\Library\PackageCache\com.unity.2d.tilemap@91afae292a4e
   assetPath: Packages/com.unity.2d.tilemap
   name: com.unity.2d.tilemap
   displayName: 2D Tilemap Editor
@@ -5745,7 +5745,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 4.1.0
   source: 1
-  resolvedPath: D:\UnityProject\plu9-running\PLU9\Library\PackageCache\com.unity.2d.tilemap.extras@13634da7dbe0
+  resolvedPath: D:\GitClone\plu9-running\PLU9\Library\PackageCache\com.unity.2d.tilemap.extras@13634da7dbe0
   assetPath: Packages/com.unity.2d.tilemap.extras
   name: com.unity.2d.tilemap.extras
   displayName: 2D Tilemap Extras
@@ -5823,18 +5823,18 @@ m_ResolvedPackages:
     recommended: 4.1.0
     deprecated: []
   dependencies:
-  - name: com.unity.2d.tilemap
-    version: 1.0.0
   - name: com.unity.modules.tilemap
+    version: 1.0.0
+  - name: com.unity.2d.tilemap
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
   resolvedDependencies:
-  - name: com.unity.2d.tilemap
-    version: 1.0.0
   - name: com.unity.modules.tilemap
     version: 1.0.0
   - name: com.unity.modules.physics2d
+    version: 1.0.0
+  - name: com.unity.2d.tilemap
     version: 1.0.0
   - name: com.unity.modules.uielements
     version: 1.0.0
@@ -5858,7 +5858,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-    licensingModel: 1
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 638654459126220000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.tilemap.extras@4.1/manual/index.html
@@ -5895,7 +5895,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.1.8
   source: 1
-  resolvedPath: D:\UnityProject\plu9-running\PLU9\Library\PackageCache\com.unity.2d.aseprite@1f731787b516
+  resolvedPath: D:\GitClone\plu9-running\PLU9\Library\PackageCache\com.unity.2d.aseprite@1f731787b516
   assetPath: Packages/com.unity.2d.aseprite
   name: com.unity.2d.aseprite
   displayName: 2D Aseprite Importer
@@ -5944,35 +5944,35 @@ m_ResolvedPackages:
     recommended: 1.1.10
     deprecated: []
   dependencies:
-  - name: com.unity.2d.common
-    version: 6.0.6
   - name: com.unity.2d.sprite
     version: 1.0.0
+  - name: com.unity.2d.common
+    version: 6.0.6
   - name: com.unity.mathematics
     version: 1.2.6
   - name: com.unity.modules.animation
     version: 1.0.0
   resolvedDependencies:
-  - name: com.unity.2d.common
-    version: 9.0.7
-  - name: com.unity.burst
-    version: 1.8.19
-  - name: com.unity.mathematics
-    version: 1.3.2
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
   - name: com.unity.2d.sprite
     version: 1.0.0
-  - name: com.unity.modules.animation
-    version: 1.0.0
+  - name: com.unity.2d.common
+    version: 9.0.7
+  - name: com.unity.mathematics
+    version: 1.3.2
   - name: com.unity.modules.uielements
     version: 1.0.0
   - name: com.unity.modules.ui
     version: 1.0.0
   - name: com.unity.modules.imgui
     version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
   - name: com.unity.modules.hierarchycore
     version: 1.0.0
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  - name: com.unity.burst
+    version: 1.8.19
   keywords:
   - 2d
   - Aseprite
@@ -5989,7 +5989,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-    licensingModel: 1
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 638725312306540000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.aseprite@1.1/manual/index.html
@@ -6026,7 +6026,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 4.9.3
   source: 1
-  resolvedPath: D:\UnityProject\plu9-running\PLU9\Library\PackageCache\com.unity.searcher@1e17ce91558d
+  resolvedPath: D:\GitClone\plu9-running\PLU9\Library\PackageCache\com.unity.searcher@1e17ce91558d
   assetPath: Packages/com.unity.searcher
   name: com.unity.searcher
   displayName: Searcher
@@ -6113,7 +6113,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.8.19
   source: 1
-  resolvedPath: D:\UnityProject\plu9-running\PLU9\Library\PackageCache\com.unity.burst@7a907cf5a459
+  resolvedPath: D:\GitClone\plu9-running\PLU9\Library\PackageCache\com.unity.burst@7a907cf5a459
   assetPath: Packages/com.unity.burst
   name: com.unity.burst
   displayName: Burst
@@ -6349,7 +6349,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.3.2
   source: 1
-  resolvedPath: D:\UnityProject\plu9-running\PLU9\Library\PackageCache\com.unity.mathematics@8017b507cc74
+  resolvedPath: D:\GitClone\plu9-running\PLU9\Library\PackageCache\com.unity.mathematics@8017b507cc74
   assetPath: Packages/com.unity.mathematics
   name: com.unity.mathematics
   displayName: Mathematics
@@ -6438,7 +6438,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.5.1
   source: 1
-  resolvedPath: D:\UnityProject\plu9-running\PLU9\Library\PackageCache\com.unity.collections@56bff8827a7e
+  resolvedPath: D:\GitClone\plu9-running\PLU9\Library\PackageCache\com.unity.collections@56bff8827a7e
   assetPath: Packages/com.unity.collections
   name: com.unity.collections
   displayName: Collections
@@ -6617,7 +6617,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.1
   source: 2
-  resolvedPath: D:\UnityProject\plu9-running\PLU9\Library\PackageCache\com.unity.rendering.light-transport@307bc27a498f
+  resolvedPath: D:\GitClone\plu9-running\PLU9\Library\PackageCache\com.unity.rendering.light-transport@307bc27a498f
   assetPath: Packages/com.unity.rendering.light-transport
   name: com.unity.rendering.light-transport
   displayName: Unity Light Transport Library
@@ -6713,7 +6713,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 9.0.7
   source: 1
-  resolvedPath: D:\UnityProject\plu9-running\PLU9\Library\PackageCache\com.unity.2d.common@bb1fc9b3d81b
+  resolvedPath: D:\GitClone\plu9-running\PLU9\Library\PackageCache\com.unity.2d.common@bb1fc9b3d81b
   assetPath: Packages/com.unity.2d.common
   name: com.unity.2d.common
   displayName: 2D Common
@@ -6804,35 +6804,35 @@ m_ResolvedPackages:
     recommended: 9.0.7
     deprecated: []
   dependencies:
-  - name: com.unity.burst
-    version: 1.8.4
   - name: com.unity.2d.sprite
     version: 1.0.0
   - name: com.unity.mathematics
     version: 1.1.0
-  - name: com.unity.modules.animation
-    version: 1.0.0
   - name: com.unity.modules.uielements
     version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.burst
-    version: 1.8.19
-  - name: com.unity.mathematics
-    version: 1.3.2
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.2d.sprite
-    version: 1.0.0
   - name: com.unity.modules.animation
     version: 1.0.0
+  - name: com.unity.burst
+    version: 1.8.4
+  resolvedDependencies:
+  - name: com.unity.2d.sprite
+    version: 1.0.0
+  - name: com.unity.mathematics
+    version: 1.3.2
   - name: com.unity.modules.uielements
     version: 1.0.0
   - name: com.unity.modules.ui
     version: 1.0.0
   - name: com.unity.modules.imgui
     version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
   - name: com.unity.modules.hierarchycore
     version: 1.0.0
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  - name: com.unity.burst
+    version: 1.8.19
   keywords:
   - 2d
   registry:
@@ -6845,7 +6845,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-    licensingModel: 1
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 638654459039420000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.common@9.0/manual/index.html
@@ -6882,7 +6882,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.11.4
   source: 1
-  resolvedPath: D:\UnityProject\plu9-running\PLU9\Library\PackageCache\com.unity.nuget.mono-cecil@d6f9955a5d5f
+  resolvedPath: D:\GitClone\plu9-running\PLU9\Library\PackageCache\com.unity.nuget.mono-cecil@d6f9955a5d5f
   assetPath: Packages/com.unity.nuget.mono-cecil
   name: com.unity.nuget.mono-cecil
   displayName: Mono Cecil
@@ -6964,7 +6964,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 3.0.3
   source: 1
-  resolvedPath: D:\UnityProject\plu9-running\PLU9\Library\PackageCache\com.unity.test-framework.performance@fb0dc592af8b
+  resolvedPath: D:\GitClone\plu9-running\PLU9\Library\PackageCache\com.unity.test-framework.performance@fb0dc592af8b
   assetPath: Packages/com.unity.test-framework.performance
   name: com.unity.test-framework.performance
   displayName: Performance testing API

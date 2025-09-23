@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      GEBoss_01_0: -1389838294796649352
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

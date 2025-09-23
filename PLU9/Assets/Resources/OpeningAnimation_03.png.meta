@@ -922,7 +922,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      OpeningAnimation_03_0: -6669245542441508340
+      OpeningAnimation_03_1: 1502723088635038101
+      OpeningAnimation_03_10: -4469443444007044782
+      OpeningAnimation_03_11: 8616683989201379040
+      OpeningAnimation_03_12: 8286629458943166560
+      OpeningAnimation_03_13: -7009267323179398115
+      OpeningAnimation_03_14: 2306770162763789456
+      OpeningAnimation_03_15: -898045769743927937
+      OpeningAnimation_03_16: 5380060854738417800
+      OpeningAnimation_03_17: -5523813219321129091
+      OpeningAnimation_03_18: 8984584669565376131
+      OpeningAnimation_03_19: 7258640277064217713
+      OpeningAnimation_03_2: 3367762313534619937
+      OpeningAnimation_03_20: 2703567969625034314
+      OpeningAnimation_03_21: -7688480518426448023
+      OpeningAnimation_03_22: 1917087208539770459
+      OpeningAnimation_03_23: -4820651638746670082
+      OpeningAnimation_03_24: 7328411421320220920
+      OpeningAnimation_03_25: 5237673971390506465
+      OpeningAnimation_03_26: -1993545533115624967
+      OpeningAnimation_03_27: -4776338413878730723
+      OpeningAnimation_03_28: 9002280402960802334
+      OpeningAnimation_03_29: -6832690261514010029
+      OpeningAnimation_03_3: -745354180544522765
+      OpeningAnimation_03_30: 8702602517294615289
+      OpeningAnimation_03_31: 471133302562859421
+      OpeningAnimation_03_4: 8357269128173878616
+      OpeningAnimation_03_5: 5415843576928700384
+      OpeningAnimation_03_6: -428392059939298281
+      OpeningAnimation_03_7: 8063759196263083128
+      OpeningAnimation_03_8: -6352815691180102915
+      OpeningAnimation_03_9: 362486283419283252
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

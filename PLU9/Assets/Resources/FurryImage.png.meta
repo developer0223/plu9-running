@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FurryImage_0: 7366807358868673233
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

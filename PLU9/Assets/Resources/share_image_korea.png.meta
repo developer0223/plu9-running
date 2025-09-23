@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      share_image_korea_0: 4771054107814426021
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

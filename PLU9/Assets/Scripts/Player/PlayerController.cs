@@ -1,5 +1,5 @@
 using UnityEngine;
-using UnityEngine.UI; // For Button
+using UnityEngine.UI;
 
 public class PlayerController : MonoBehaviour
 {
@@ -18,6 +18,8 @@ public class PlayerController : MonoBehaviour
     private int jumpCount;
     private bool isGrounded;
 
+    [SerializeField] private Animator playerAnimator;
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -29,9 +31,25 @@ public class PlayerController : MonoBehaviour
     {
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
 
+
+        if(isGrounded)
+        {
+            playerAnimator.SetBool("isJumping", false);
+        }
+        else
+        {
+            playerAnimator.SetBool("isJumping", true);
+        }
+
+
         if (isGrounded && rb.linearVelocity.y <= 0)
         {
             jumpCount = 0;
+        }
+
+        if(Input.GetKeyDown(KeyCode.Space))
+        {
+            OnClickJumpButton();
         }
     }
 

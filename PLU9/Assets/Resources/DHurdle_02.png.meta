@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DHurdle_02_0: -7654128031561730989
+      DHurdle_02_1: -1116393330144716051
+      DHurdle_02_2: 6318140543105776824
+      DHurdle_02_3: 5948856855657151989
+      DHurdle_02_4: -3673485277219221111
+      DHurdle_02_5: -6343944878954878978
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

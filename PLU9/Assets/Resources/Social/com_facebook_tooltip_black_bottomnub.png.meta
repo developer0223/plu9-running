@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      com_facebook_tooltip_black_bottomnub_0: -4791439475007722510
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DBoss_01_01_0: 2084647723847275361
+      DBoss_01_01_1: 3364484789580893292
+      DBoss_01_01_2: -5695193790570371745
+      DBoss_01_01_3: -8628929080049170384
+      DBoss_01_01_4: -7225221173265107273
+      DBoss_01_01_5: -977780651078696411
+      DBoss_01_01_6: 1693077243824622238
+      DBoss_01_01_7: 1882390911237321492
+      DBoss_01_01_8: 3372286873671837864
+      DBoss_01_01_9: 7622325806062056053
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

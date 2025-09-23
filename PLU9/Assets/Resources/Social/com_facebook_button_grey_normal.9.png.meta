@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      com_facebook_button_grey_normal.9_0: -8177337943279778232
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

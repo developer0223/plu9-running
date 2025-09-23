@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      com_facebook_profile_picture_blank_portrait_0: 5687854869802366070
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

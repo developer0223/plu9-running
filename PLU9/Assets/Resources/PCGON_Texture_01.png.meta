@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PCGON_Texture_01_0: -2141910616101952690
+      PCGON_Texture_01_1: 2309180884955425729
+      PCGON_Texture_01_10: 594977472308049714
+      PCGON_Texture_01_2: -7665177575989124485
+      PCGON_Texture_01_3: -2948560819809815380
+      PCGON_Texture_01_4: -4819282047663848941
+      PCGON_Texture_01_5: -2856461311778734155
+      PCGON_Texture_01_6: 8192368679820243029
+      PCGON_Texture_01_7: -6574241645819065235
+      PCGON_Texture_01_8: -3192119835539529567
+      PCGON_Texture_01_9: 1986533734976685795
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

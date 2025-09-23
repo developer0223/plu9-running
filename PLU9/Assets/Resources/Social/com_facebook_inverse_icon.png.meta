@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      com_facebook_inverse_icon_0: 3865627028880361830
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

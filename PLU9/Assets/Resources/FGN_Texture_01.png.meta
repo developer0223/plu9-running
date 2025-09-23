@@ -497,7 +497,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FGN_Texture_01_0: 1274014573331454226
+      FGN_Texture_01_1: -8391298173159171139
+      FGN_Texture_01_10: -7948637761672491059
+      FGN_Texture_01_11: -3870139729210779053
+      FGN_Texture_01_12: 4257938769473050212
+      FGN_Texture_01_13: 6159450538237154198
+      FGN_Texture_01_14: 7247239460663131701
+      FGN_Texture_01_2: -4002934799386906702
+      FGN_Texture_01_3: 7605209149913206327
+      FGN_Texture_01_4: 1639786040086638436
+      FGN_Texture_01_5: -5686101601013720211
+      FGN_Texture_01_6: -1220058747075313885
+      FGN_Texture_01_7: -7274775012496586757
+      FGN_Texture_01_8: -208152644399797223
+      FGN_Texture_01_9: 8071785337888526140
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

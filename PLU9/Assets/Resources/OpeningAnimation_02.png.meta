@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      OpeningAnimation_02_0: 608409870785663642
+      OpeningAnimation_02_1: 1258128590685614244
+      OpeningAnimation_02_2: 5166636518062347501
+      OpeningAnimation_02_3: 5261532622626210003
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      com_facebook_profile_default_icon_0: 4665080359290819600
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

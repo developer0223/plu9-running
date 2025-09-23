@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      com_facebook_tooltip_blue_xout_0: -2652095584567366538
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

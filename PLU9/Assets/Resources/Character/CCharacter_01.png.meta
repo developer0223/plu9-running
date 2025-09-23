@@ -847,7 +847,36 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CCharacter_01_0: -1079397919361200655
+      CCharacter_01_1: 3996625251774498252
+      CCharacter_01_10: -6895415829469260281
+      CCharacter_01_11: -7998653360612784039
+      CCharacter_01_12: -5758302935802375174
+      CCharacter_01_13: -4689873146294519609
+      CCharacter_01_14: -754254783246746064
+      CCharacter_01_15: -5775158968677345958
+      CCharacter_01_16: -3791739001199773029
+      CCharacter_01_17: -5328116227077994204
+      CCharacter_01_18: -4797525261844712299
+      CCharacter_01_19: 1424162819382381203
+      CCharacter_01_2: -5663831375525329536
+      CCharacter_01_20: 1808440917114626480
+      CCharacter_01_21: -289386742137670455
+      CCharacter_01_22: 6428199380577375782
+      CCharacter_01_23: -8363838128009362481
+      CCharacter_01_24: -706816955391671325
+      CCharacter_01_25: 4238167197868136173
+      CCharacter_01_26: -5242977176887372860
+      CCharacter_01_27: -2575439845363885750
+      CCharacter_01_28: 3351741931375655573
+      CCharacter_01_3: 5377729744073359314
+      CCharacter_01_4: -2212950738648162123
+      CCharacter_01_5: 2790410521963825232
+      CCharacter_01_6: -2429132237235843370
+      CCharacter_01_7: 1549074619050377046
+      CCharacter_01_8: 111801296434592700
+      CCharacter_01_9: 5145151719168243400
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

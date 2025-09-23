@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      com_facebook_picker_list_selector_disabled.9_0: 4875875252370595971
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

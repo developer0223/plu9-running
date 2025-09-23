@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DMonster_02_01_0: 8205318126789181368
+      DMonster_02_01_1: 9187693245832030476
+      DMonster_02_01_2: 820533820423735466
+      DMonster_02_01_3: 371001537766198036
+      DMonster_02_01_4: -7018940200427298442
+      DMonster_02_01_5: 5517113508216582663
+      DMonster_02_01_6: 5286674115793341361
+      DMonster_02_01_7: -7700903270879701723
+      DMonster_02_01_8: 3021992429251741376
+      DMonster_02_01_9: -2129165755957643181
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      common_signin_btn_text_disabled_dark.9_0: 7799296426129441631
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

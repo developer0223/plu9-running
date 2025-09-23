@@ -297,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DBoss_01_02_0: -3525317616905932200
+      DBoss_01_02_1: 3689685178951617383
+      DBoss_01_02_2: 3433483161711548709
+      DBoss_01_02_3: -2739267004573945828
+      DBoss_01_02_4: -8965345783234866284
+      DBoss_01_02_5: 1034753472729918800
+      DBoss_01_02_6: -3045498633328693780
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

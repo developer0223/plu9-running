@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      com_facebook_button_grey_focused.9_0: -6299005775852154898
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

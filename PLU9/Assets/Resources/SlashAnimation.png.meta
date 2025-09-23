@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SlashAnimation_0: -385355707632148847
+      SlashAnimation_1: 6897636031897322568
+      SlashAnimation_2: 6526440848273685774
+      SlashAnimation_3: 3926273753013263007
+      SlashAnimation_4: 3035139262131109399
+      SlashAnimation_5: -8679491767236984652
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

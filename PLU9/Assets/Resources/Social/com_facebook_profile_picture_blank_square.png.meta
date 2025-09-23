@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      com_facebook_profile_picture_blank_square_0: 7377096846743296452
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

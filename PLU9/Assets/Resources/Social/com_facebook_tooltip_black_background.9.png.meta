@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      com_facebook_tooltip_black_background.9_0: 2615094537123952269
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

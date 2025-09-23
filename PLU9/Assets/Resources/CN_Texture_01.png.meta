@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CN_Texture_01_0: 4022923859007880268
+      CN_Texture_01_1: -6601651953279384655
+      CN_Texture_01_10: 7225881783007390257
+      CN_Texture_01_11: 7873568310113725890
+      CN_Texture_01_2: -5107483717655478507
+      CN_Texture_01_3: 2763740369130586923
+      CN_Texture_01_4: 8468368846470725561
+      CN_Texture_01_5: 2975782619437298597
+      CN_Texture_01_6: -4168166614923233207
+      CN_Texture_01_7: 7675191332647892144
+      CN_Texture_01_8: -3924228958913493031
+      CN_Texture_01_9: -3123032622894246808
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
