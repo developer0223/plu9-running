@@ -81,6 +81,7 @@ public class Gem : MonoBehaviour
         if (ScoreManager.Instance != null)
         {
             ScoreManager.Instance.AddScore(scoreValue);
+            ScoreManager.Instance.AddGems(1); // 보석 카운터에 1 추가
         }
         
         Destroy(gameObject);
