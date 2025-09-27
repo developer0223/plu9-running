@@ -1,5 +1,4 @@
 using UnityEngine;
-using System.Linq;
 
 public class BgScroller : MonoBehaviour 
 {
@@ -37,15 +36,8 @@ public class BgScroller : MonoBehaviour
 
     private void Reposition(Transform segmentToMove)
     {
-        Transform rightmostSegment = bgSegments[0];
-        foreach (Transform seg in bgSegments)
-        {
-            if (seg.position.x > rightmostSegment.position.x)
-            {
-                rightmostSegment = seg;
-            }
-        }
-
-        segmentToMove.position = new Vector2(rightmostSegment.position.x + segmentWidth, segmentToMove.position.y);
+        // 화면 밖으로 나간 조각을 (전체 조각 개수 * 조각 넓이) 만큼 오른쪽으로 이동시킵니다.
+        float offset = bgSegments.Length * segmentWidth;
+        segmentToMove.position += new Vector3(offset, 0, 0);
     }
 }
